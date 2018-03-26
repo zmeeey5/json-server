@@ -1,76 +1,80 @@
 {
-  "comics": {
-    "Marvel Comics": [
-      {
-        "_id": "comics_marvel_0001",
-        "title": "The Infinity Gauntlet",
-        "year": 1991,
-        "cover": "https://imgix.ranker.com/user_node_img/50032/1000624444/original/the-infinity-gauntlet-comic-book-series-photo-u1?w=650&q=50&fm=jpg&fit=crop&crop=faces"
-      },
-      {
-        "_id": "comics_marvel_0002",
-        "title": "World War Hulk",
-        "year": 2007,
-        "cover": "https://imgix.ranker.com/user_node_img/474/9479461/original/world-war-hulk-x-men-comic-book-series-photo-u1?w=650&q=50&fm=jpg&fit=crop&crop=faces"
-      },
-      {
-        "_id": "comics_marvel_0003",
-        "title": "Secret Wars",
-        "year": 1984,
-        "cover": "https://imgix.ranker.com/user_node_img/100/1997355/original/secret-wars-comic-book-series-photo-u2?w=650&q=50&fm=jpg&fit=crop&crop=faces"
-      },
-      {
-        "_id": "comics_marvel_0004",
-        "title": "House of M",
-        "year": 2005,
-        "cover": "https://imgix.ranker.com/user_node_img/60/1182809/original/house-of-m-comic-book-series-photo-u2?w=650&q=50&fm=jpg&fit=crop&crop=faces"
-      },
-      {
-        "_id": "comics_marvel_0005",
-        "title": "Secret Invasion",
-        "year": 2008,
-        "cover": "https://imgix.ranker.com/user_node_img/100/1997203/original/secret-invasion-comic-book-series-photo-u3?w=650&q=60&fm=jpg&fit=crop&crop=faces"
-      },
-      {
-        "_id": "comics_marvel_0006",
-        "title": "Avengers VS X-Men",
-        "year": 2012,
-        "cover": "https://imgix.ranker.com/user_node_img/50032/1000624430/original/avengers-vs-x-men-comic-book-series-photo-u1?w=650&q=60&fm=jpg&fit=crop&crop=faces"
-      },
-      {
-        "_id": "comics_marvel_0007",
-        "title": "Avengers Disassembled",
-        "year": 2004,
-        "cover": "https://imgix.ranker.com/user_node_img/50032/1000624436/original/avengers-disassembled-comic-book-series-photo-u1?w=650&q=60&fm=jpg&fit=crop&crop=faces"
-      },
-      {
-        "_id": "comics_marvel_0008",
-        "title": "Spider-Verse",
-        "year": 2014,
-        "cover": "https://imgix.ranker.com/user_node_img/50034/1000664340/original/spider-verse-2014-photo-u1?w=650&q=60&fm=jpg&fit=crop&crop=faces"
-      },
-      {
-        "_id": "comics_marvel_0009",
-        "title": "X-Men: Second Coming",
-        "year": 2010,
-        "cover": "https://imgix.ranker.com/user_node_img/50032/1000624435/original/x-men-second-coming-comic-book-series-photo-u1?w=650&q=60&fm=jpg&fit=crop&crop=faces"
-      },
-      {
-        "_id": "comics_marvel_0010",
-        "title": "Infinity",
-        "year": 2013,
-        "cover": "https://imgix.ranker.com/user_node_img/50034/1000664336/original/infinity-2013-photo-u1?w=650&q=60&fm=jpg&fit=crop&crop=faces"
-      }
-    ],
-    "DC Comics": [
-      {
-        "_id": "comics_dc_0001",
-        "title": "THE DARK KNIGHT RETURNS",
-        "year": 1986,
-        "cover": "https://vignette.wikia.nocookie.net/batman/images/7/74/The_Dark_Knight_Returns.jpg/revision/latest?cb=20150430163500"
-      }
-    ]
-  },
+  "comics": [
+    {
+      "Marvel Comics": [
+        {
+          "_id": "comics_marvel_0001",
+          "title": "The Infinity Gauntlet",
+          "year": 1991,
+          "cover": "https://imgix.ranker.com/user_node_img/50032/1000624444/original/the-infinity-gauntlet-comic-book-series-photo-u1?w=650&q=50&fm=jpg&fit=crop&crop=faces"
+        },
+        {
+          "_id": "comics_marvel_0002",
+          "title": "World War Hulk",
+          "year": 2007,
+          "cover": "https://imgix.ranker.com/user_node_img/474/9479461/original/world-war-hulk-x-men-comic-book-series-photo-u1?w=650&q=50&fm=jpg&fit=crop&crop=faces"
+        },
+        {
+          "_id": "comics_marvel_0003",
+          "title": "Secret Wars",
+          "year": 1984,
+          "cover": "https://imgix.ranker.com/user_node_img/100/1997355/original/secret-wars-comic-book-series-photo-u2?w=650&q=50&fm=jpg&fit=crop&crop=faces"
+        },
+        {
+          "_id": "comics_marvel_0004",
+          "title": "House of M",
+          "year": 2005,
+          "cover": "https://imgix.ranker.com/user_node_img/60/1182809/original/house-of-m-comic-book-series-photo-u2?w=650&q=50&fm=jpg&fit=crop&crop=faces"
+        },
+        {
+          "_id": "comics_marvel_0005",
+          "title": "Secret Invasion",
+          "year": 2008,
+          "cover": "https://imgix.ranker.com/user_node_img/100/1997203/original/secret-invasion-comic-book-series-photo-u3?w=650&q=60&fm=jpg&fit=crop&crop=faces"
+        },
+        {
+          "_id": "comics_marvel_0006",
+          "title": "Avengers VS X-Men",
+          "year": 2012,
+          "cover": "https://imgix.ranker.com/user_node_img/50032/1000624430/original/avengers-vs-x-men-comic-book-series-photo-u1?w=650&q=60&fm=jpg&fit=crop&crop=faces"
+        },
+        {
+          "_id": "comics_marvel_0007",
+          "title": "Avengers Disassembled",
+          "year": 2004,
+          "cover": "https://imgix.ranker.com/user_node_img/50032/1000624436/original/avengers-disassembled-comic-book-series-photo-u1?w=650&q=60&fm=jpg&fit=crop&crop=faces"
+        },
+        {
+          "_id": "comics_marvel_0008",
+          "title": "Spider-Verse",
+          "year": 2014,
+          "cover": "https://imgix.ranker.com/user_node_img/50034/1000664340/original/spider-verse-2014-photo-u1?w=650&q=60&fm=jpg&fit=crop&crop=faces"
+        },
+        {
+          "_id": "comics_marvel_0009",
+          "title": "X-Men: Second Coming",
+          "year": 2010,
+          "cover": "https://imgix.ranker.com/user_node_img/50032/1000624435/original/x-men-second-coming-comic-book-series-photo-u1?w=650&q=60&fm=jpg&fit=crop&crop=faces"
+        },
+        {
+          "_id": "comics_marvel_0010",
+          "title": "Infinity",
+          "year": 2013,
+          "cover": "https://imgix.ranker.com/user_node_img/50034/1000664336/original/infinity-2013-photo-u1?w=650&q=60&fm=jpg&fit=crop&crop=faces"
+        }
+      ]
+    },
+    {
+      "DC Comics": [
+        {
+          "_id": "comics_dc_0001",
+          "title": "THE DARK KNIGHT RETURNS",
+          "year": 1986,
+          "cover": "https://vignette.wikia.nocookie.net/batman/images/7/74/The_Dark_Knight_Returns.jpg/revision/latest?cb=20150430163500"
+        }
+      ]
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
