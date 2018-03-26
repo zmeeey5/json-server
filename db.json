@@ -1,7 +1,8 @@
 {
   "comics": [
     {
-      "Marvel Comics": [
+      "name": "Marvel Comics",
+      "items": [
         {
           "_id": "comics_marvel_0001",
           "title": "The Infinity Gauntlet",
@@ -65,7 +66,8 @@
       ]
     },
     {
-      "DC Comics": [
+      "name": "DC Comics",
+      "items": [
         {
           "_id": "comics_dc_0001",
           "title": "THE DARK KNIGHT RETURNS",
